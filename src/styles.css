@@ -26,18 +26,26 @@ main {
     width: 100%;
     background-color: var(--dark-blue);
 }
-.quote__container {
+.quote__section {
     position: relative;
     width: 90%;
     max-width: 520px;
-    height: 300px;
+    height: 360px;
     padding: 10px;
     background-color: var(--dark-grayish-blue);
     border-radius: 10px;
 }
+.quote__container {
+    display: flex;
+    height: 280px;
+    flex-direction: column;
+    justify-content: space-between;
+}
 .quote__container h2 {
-    text-align: center;
+    display: flex;
+    justify-content: center;
     padding-top: 30px;
+    gap: 10px;
     margin-bottom: 20px;
     font-size: 1.2rem;
     color: var(--neon-green);
