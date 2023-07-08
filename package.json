@@ -1,0 +1,16 @@
+{
+  "name": "advice-generator-app-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "Leonardo Fernández <leonardo99112821385@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^3.0.0"
+  }
+}
