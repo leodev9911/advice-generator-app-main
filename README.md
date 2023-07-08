@@ -35,7 +35,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/advicegeneratorappmain-with-html5-css3-and-js-JtISBJm3Yy
+))
 
 ## My process
 
